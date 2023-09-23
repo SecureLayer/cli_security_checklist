@@ -35,8 +35,8 @@ theme = "agnes-hugo-theme"
 [params.content]
 	LeadTitle = "SecureLayer"
 	LeadDescription = "a cybersecurity company providing services for SMBs in Europe, South America and the Caribbean."
-	ButtonCaption = "Pricing & Plans"
-	ButtonURL = "http://google.com"
+	ButtonCaption = "Contact Us"
+	ButtonURL = "Contact"
 
 ################### Feature Columns (do not exceed 4) ####################
 
