@@ -1,4 +1,4 @@
-baseURL = "http://securelayer.co/"
+baseURL = "http://securelayer.co"
 languageCode = "en-us"
 title = "SecureLayer"
 theme = "agnes-hugo-theme"
