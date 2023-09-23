@@ -17,8 +17,8 @@ theme = "agnes-hugo-theme"
 	
 	[[menu.main]]
 		Name = "About us"
-		#URL = "#"
-		pageRef = '/about'
+		URL = "#/about"
+		#pageRef = '/about'
 		weight = 2
 	
 	[[menu.main]]
