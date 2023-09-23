@@ -64,6 +64,7 @@ theme = "agnes-hugo-theme"
 	PricingTitle = "Pro"
 	PricingRate = "250"	
 	ButtonCaption = "Contact Us"
+ 	pageRef = '/contact'
 	[[params.pricing.Features]]
 		Description = "1 Hour Of Advisory Services"
 	[[params.pricing.Features]]
@@ -75,6 +76,7 @@ theme = "agnes-hugo-theme"
 	PricingTitle = "Business+"
 	PricingRate = "750"
 	ButtonCaption = "Contact Us"
+ 	pageRef = '/contact'
 	[[params.pricing.Features]]
 		Description = "4 Hours Of Advisory Services"
 	[[params.pricing.Features]]
@@ -88,6 +90,7 @@ theme = "agnes-hugo-theme"
 	PricingTitle = "Entreprise"
 	PricingRate = "-"
 	ButtonCaption = "Get Earliest Access"
+ 	pageRef = '/contact'
 	[[params.pricing.Features]]
 		Description = "Full Advisory & Incident Response Services"
 	[[params.pricing.Features]]
