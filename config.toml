@@ -11,23 +11,21 @@ theme = "agnes-hugo-theme"
 [menu]
 	[[menu.main]]
 		Name = "Contact"
-		URL = "#"
+		#URL = "#"
+		pageRef = '/contact'
 		weight = 1
 	
 	[[menu.main]]
 		Name = "About us"
-		URL = "#"
+		#URL = "#"
+		pageRef = '/about'
 		weight = 2
 	
 	[[menu.main]]
 		Name = "FAQ's"
-		URL = "#"
+		#URL = "#"
+		pageRef = '/faq'	
 		weight = 3
-	
-	[[menu.main]]
-		Name = "Support"
-		URL = "#"
-		weight = 4
 		
 [params.social]
 	GoogleURL = "http://google.com"
@@ -36,28 +34,28 @@ theme = "agnes-hugo-theme"
 	LeadTitle = "SecureLayer"
 	LeadDescription = "a cybersecurity company providing services for SMBs in Europe, South America and the Caribbean."
 	ButtonCaption = "Contact Us"
-	ButtonURL = "Contact"
+	ButtonURL = "/contact"
 
 ################### Feature Columns (do not exceed 4) ####################
 
 [[params.feature]]
 	FeatureTitle = "Virtual CISO"
-	FeatureDescription = "From zero to secure in weeks – Plan, develop, and implement an effective cyber security strategy"
+	FeatureDescription = "a cybersecurity expert will take the time to understand your organization’s specific business objectives and create a comprehensive and tailored cyber security strategy to meet those goals."
  	FeatureImage = "images/feature-1.png"
 	
 [[params.feature]]
 	FeatureTitle = "Managed Security"
-	FeatureDescription = "Enterprise solutions at an affordable price - Our managed security services give your organization access to best-in-class experts, proven processes, and cutting-edge technologies that fit your requirements and budget."
+	FeatureDescription = "cybersecurity tools at an affordable price to give your organization access to best technologies that fit your requirements and budget."
 	FeatureImage = "images/feature-2.png"
 
 [[params.feature]]
 	FeatureTitle = "Risk Assessment"
-	FeatureDescription = " Identify, evaluate, and prioritize cyber risk - We believe that true risk assessment lies with the organization as a whole, rather than individual technologies. With us, you will understand all of your risks."
+	FeatureDescription = "to inform decision-makers about vulnerabilities in corporate systems, allowing them to take preemptive defensive actions and prepare effective risk responses."
 	FeatureImage = "images/feature-3.png"
 	
 [[params.feature]]
 	FeatureTitle = "Phishing Test"
-	FeatureDescription = "To train employees to detect and report phishing - We believe in an approaach to arms employees with knowledge and best practices to will attacks from succeeding or minimize the effects of those that break through."
+	FeatureDescription = "to train your employees to detect and report phishing attacks to minimize the effects of attacks that will break through."
 	FeatureImage = "images/feature-4.png"
 	
 ################### Pricing Columns (do not exceed 3) ####################
@@ -88,7 +86,7 @@ theme = "agnes-hugo-theme"
 	
 [[params.pricing]]
 	PricingTitle = "Entreprise"
-	PricingRate = "on Demand"
+	PricingRate = "-"
 	ButtonCaption = "Get Earliest Access"
 	[[params.pricing.Features]]
 		Description = "Full Advisory & Incident Response Services"
