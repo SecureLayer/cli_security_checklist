@@ -33,70 +33,70 @@ theme = "agnes-hugo-theme"
 	GoogleURL = "http://google.com"
 		
 [params.content]
-	LeadTitle = "Landing page for SecureLayer"
-	LeadDescription = ""
+	LeadTitle = "SecureLayer"
+	LeadDescription = "a cybersecurity company providing services for SMBs in Europe, South America and the Caribbean."
 	ButtonCaption = "Pricing & Plans"
 	ButtonURL = "http://google.com"
 
 ################### Feature Columns (do not exceed 4) ####################
 
 [[params.feature]]
-	FeatureTitle = "Feature 1"
-	FeatureDescription = "A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements."
-	FeatureImage = "images/feature-1.png"
+	FeatureTitle = "Virtual CISO"
+	FeatureDescription = "From zero to secure in weeks – Plan, develop, and implement an effective cyber security strategy"
+ 	FeatureImage = "images/feature-1.png"
 	
 [[params.feature]]
-	FeatureTitle = "Feature 2"
-	FeatureDescription = "A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements."
+	FeatureTitle = "Managed Security"
+	FeatureDescription = "Enterprise solutions at an affordable price - Our managed security services give your organization access to best-in-class experts, proven processes, and cutting-edge technologies that fit your requirements and budget."
 	FeatureImage = "images/feature-2.png"
 
 [[params.feature]]
-	FeatureTitle = "Feature 3"
-	FeatureDescription = "A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements."
+	FeatureTitle = "Risk Assessment"
+	FeatureDescription = " Identify, evaluate, and prioritize cyber risk - We believe that true risk assessment lies with the organization as a whole, rather than individual technologies. With us, you will understand all of your risks."
 	FeatureImage = "images/feature-3.png"
 	
 [[params.feature]]
-	FeatureTitle = "Feature 4"
-	FeatureDescription = "A pseudo-Latin text used in web design, layout, and printing in place of English to emphasise design elements."
+	FeatureTitle = "Phishing Test"
+	FeatureDescription = "To train employees to detect and report phishing - We believe in an approaach to arms employees with knowledge and best practices to will attacks from succeeding or minimize the effects of those that break through."
 	FeatureImage = "images/feature-4.png"
 	
 ################### Pricing Columns (do not exceed 3) ####################
 
 [[params.pricing]]
-	PricingTitle = "Starter"
-	PricingRate = "27"	
-	ButtonCaption = "Get Early Access"
+	PricingTitle = "Pro"
+	PricingRate = "250"	
+	ButtonCaption = "Contact Us"
 	[[params.pricing.Features]]
-		Description = "Lorem ipsum is common text"
+		Description = "1 Hour Of Advisory Services"
 	[[params.pricing.Features]]
-		Description = "Lorem ipsum is common text"
+		Description = "1 Hour of Incident Response Services"
 	[[params.pricing.Features]]
-		Description = "Lorem ipsum is common text"
-	[[params.pricing.Features]]
-		Description = "Lorem ipsum is common text"	
+		Description = "1 Device Security Management (+50$ by added device)"	
 
 [[params.pricing]]
-	PricingTitle = "Professional"
-	PricingRate = "97"
-	ButtonCaption = "Get Earlier Access"
+	PricingTitle = "Business+"
+	PricingRate = "750"
+	ButtonCaption = "Contact Us"
 	[[params.pricing.Features]]
-		Description = "Lorem ipsum is common text"
+		Description = "4 Hours Of Advisory Services"
 	[[params.pricing.Features]]
-		Description = "Lorem ipsum is common text"
+		Description = "4 Hours of Incident Response Services"
 	[[params.pricing.Features]]
-		Description = "Lorem ipsum is common text"
+		Description = "2 Devices Security Management (+50$ by added device)"
 	[[params.pricing.Features]]
-		Description = "Lorem ipsum is common text"		
+		Description = "Network Security Management"
 	
 [[params.pricing]]
-	PricingTitle = "Business"
-	PricingRate = "147"
+	PricingTitle = "Entreprise"
+	PricingRate = "on Demand"
 	ButtonCaption = "Get Earliest Access"
 	[[params.pricing.Features]]
-		Description = "Lorem ipsum is common text"
+		Description = "Full Advisory & Incident Response Services"
 	[[params.pricing.Features]]
-		Description = "Lorem ipsum is common text"
+		Description = "Full Devices Security Management"
 	[[params.pricing.Features]]
-		Description = "Lorem ipsum is common text"
+		Description = "Security Strategy Roadmap"
 	[[params.pricing.Features]]
-		Description = "Lorem ipsum is common text"	
+		Description = "Secure Project Implementation"
+  	[[params.pricing.Features]]
+		Description = "Network Security Management"
