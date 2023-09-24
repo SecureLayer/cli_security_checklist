@@ -78,7 +78,7 @@ contentDir = "content/en"
 	PricingTitle = "Business+"
 	PricingRate = "750"
 	ButtonCaption = "Contact us"
-	ButtonURL = "mailto:contact@securelayer.co"
+	ButtonURL = "/contact/"
 	[[params.pricing.Features]]
 		Description = "1 Risk Assessment of your system"
 	[[params.pricing.Features]]
