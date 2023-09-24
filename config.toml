@@ -63,7 +63,7 @@ contentDir = "content/en"
 
 [[params.pricing]]
 	PricingTitle = "Pro"
-	PricingRate = "250"	
+	PricingRate = "250$/month"	
 	ButtonCaption = "Contact Us"
  	pageRef = '/contact'
 	[[params.pricing.Features]]
@@ -75,7 +75,7 @@ contentDir = "content/en"
 
 [[params.pricing]]
 	PricingTitle = "Business+"
-	PricingRate = "750"
+	PricingRate = "750$/month"
 	ButtonCaption = "Contact Us"
  	pageRef = '/contact'
 	[[params.pricing.Features]]
@@ -89,7 +89,7 @@ contentDir = "content/en"
 
 [[params.pricing]]
 	PricingTitle = "Entreprise"
-	#PricingRate = "-"
+	PricingRate = "on Demand"
 	ButtonCaption = "Get Earliest Access"
  	pageRef = '/contact'
 	[[params.pricing.Features]]
