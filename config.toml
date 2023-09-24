@@ -18,13 +18,13 @@ contentDir = "content/en"
 	
 	[[menu.main]]
 		Name = "About us"
-		URL = "/about"
+		ButtonURL = "/about"
 		#pageRef = '/about'
 		weight = 2
 	
 	[[menu.main]]
 		Name = "FAQ's"
-		URL = "/faq"
+		ButtonURL = "/faq"
 		#pageRef = '/faq'	
 		weight = 3
 		
@@ -65,7 +65,7 @@ contentDir = "content/en"
 	PricingTitle = "Pro"
 	PricingRate = "250$/month"	
 	ButtonCaption = "Contact Us"
- 	pageRef = '/contact'
+ 	ButtonURL = '/contact'
 	[[params.pricing.Features]]
 		Description = "1 Risk Assessment of your system"
 	[[params.pricing.Features]]
@@ -77,7 +77,7 @@ contentDir = "content/en"
 	PricingTitle = "Business+"
 	PricingRate = "750$/month"
 	ButtonCaption = "Contact Us"
- 	pageRef = '/contact'
+ 	ButtonURL = '/contact'
 	[[params.pricing.Features]]
 		Description = "1 Risk Assessment of your system"
 	[[params.pricing.Features]]
@@ -91,7 +91,7 @@ contentDir = "content/en"
 	PricingTitle = "Entreprise"
 	PricingRate = "on Demand"
 	ButtonCaption = "Get Earliest Access"
- 	pageRef = '/contact'
+ 	ButtonURL = '/contact'
 	[[params.pricing.Features]]
 		Description = "Regular Risk Assessment of your system"
 	[[params.pricing.Features]]
