@@ -18,13 +18,13 @@ contentDir = "content/en"
 	
 	[[menu.main]]
 		Name = "About us"
-		ButtonURL = "/about"
+		URL = "/about"
 		#pageRef = '/about'
 		weight = 2
 	
 	[[menu.main]]
 		Name = "FAQ's"
-		ButtonURL = "/faq"
+		URL = "/faq"
 		#pageRef = '/faq'	
 		weight = 3
 		
@@ -35,7 +35,7 @@ contentDir = "content/en"
 	LeadTitle = "SecureLayer"
 	LeadDescription = "a cybersecurity company helping SMBs improve their business in Europe, South America and the Caribbean."
 	ButtonCaption = "Contact Us"
-	ButtonURL = "/contact"
+	URL = "/contact"
 
 ################### Feature Columns (do not exceed 4) ####################
 
@@ -65,7 +65,7 @@ contentDir = "content/en"
 	PricingTitle = "Pro"
 	PricingRate = "250"	
 	ButtonCaption = "Contact Us"
- 	ButtonURL = '/contact'
+ 	URL = '/contact'
 	[[params.pricing.Features]]
 		Description = "1 Risk Assessment of your system"
 	[[params.pricing.Features]]
@@ -77,7 +77,7 @@ contentDir = "content/en"
 	PricingTitle = "Business+"
 	PricingRate = "750"
 	ButtonCaption = "Contact Us"
- 	ButtonURL = '/contact'
+ 	URL = '/contact'
 	[[params.pricing.Features]]
 		Description = "1 Risk Assessment of your system"
 	[[params.pricing.Features]]
@@ -91,7 +91,7 @@ contentDir = "content/en"
 	PricingTitle = "Entreprise"
 	PricingRate = ""
 	ButtonCaption = "Get Earliest Access"
- 	ButtonURL = '/contact'
+ 	URL = '/contact'
 	[[params.pricing.Features]]
 		Description = "Regular Risk Assessment of your system"
 	[[params.pricing.Features]]
