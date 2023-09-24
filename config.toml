@@ -66,11 +66,11 @@ theme = "agnes-hugo-theme"
 	ButtonCaption = "Contact Us"
  	pageRef = '/contact'
 	[[params.pricing.Features]]
-		Description = "*1 Risk Assessment* of your system"
+		Description = "1 Risk Assessment of your system"
 	[[params.pricing.Features]]
-		Description = "*1 Hour* of our *vCISO* Services"
+		Description = "1 Hour of our vCISO Services"
 	[[params.pricing.Features]]
-		Description = "*1 Device* covered by our basic *Managed Security* Services (+50$ by added device)"	
+		Description = "1 Device covered by our basic Managed Security Services (+50$ by added device)"	
 
 [[params.pricing]]
 	PricingTitle = "Business+"
@@ -78,13 +78,13 @@ theme = "agnes-hugo-theme"
 	ButtonCaption = "Contact Us"
  	pageRef = '/contact'
 	[[params.pricing.Features]]
-		Description = "*1 Risk Assessment* of your system"
+		Description = "1 Risk Assessment of your system"
 	[[params.pricing.Features]]
-		Description = "*4 Hours* of our *vCISO* Services"
+		Description = "4 Hours of our vCISO Services"
 	[[params.pricing.Features]]
-		Description = "*2 Device* covered by our basic *Managed Security* Services (+50$ by added device)"
+		Description = "2 Devices covered by our basic Managed Security Services (+50$ by added device)"
 	[[params.pricing.Features]]
-		Description = "Basic *Website and Network Security* Management"
+		Description = "Basic Website and Network Security Management"
 
 [[params.pricing]]
 	PricingTitle = "Entreprise"
@@ -92,10 +92,10 @@ theme = "agnes-hugo-theme"
 	ButtonCaption = "Get Earliest Access"
  	pageRef = '/contact'
 	[[params.pricing.Features]]
-		Description = "Regular *Risk Assessment* of your system"
+		Description = "Regular Risk Assessment of your system"
 	[[params.pricing.Features]]
-		Description = "Full *vCISO* Services"
+		Description = "Full vCISO Services"
 	[[params.pricing.Features]]
-		Description = "All devices covered by our advanced *Managed Security* Services"
+		Description = "All devices covered by our advanced Managed Security Services"
 	[[params.pricing.Features]]
-		Description = "Advanced *Website and Network Security* Management" 
+		Description = "Advanced Website and Network Security Management" 
