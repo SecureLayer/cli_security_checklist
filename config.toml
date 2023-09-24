@@ -16,11 +16,11 @@ contentDir = "content/en"
 		#pageRef = '/contact'
 		weight = 1
 	
-	#[[menu.main]]
-	#	Name = "About us"
-	#	URL = "/about"
+	[[menu.main]]
+		Name = "Security"
+		URL = "/security"
 	#	pageRef = '/about'
-	#	weight = 2
+		weight = 2
 	
 	[[menu.main]]
 		Name = "Privacy"
