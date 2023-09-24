@@ -2,7 +2,7 @@ baseURL = "http://securelayer.co"
 languageCode = "en-us"
 title = "SecureLayer"
 theme = "agnes-hugo-theme"
-contentDir = ‘content/en’
+contentDir = "content/en"
 
 [params]
 	dateFormat = "Jan 2, 2023" 
