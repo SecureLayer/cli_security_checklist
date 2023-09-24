@@ -70,7 +70,7 @@ theme = "agnes-hugo-theme"
 	[[params.pricing.Features]]
 		Description = "1 Hour of our vCISO Services"
 	[[params.pricing.Features]]
-		Description = "1 Device covered by our basic Managed Security Services (+50$ by added device)"	
+		Description = "1 Device covered by our basic Managed Security Services"	
 
 [[params.pricing]]
 	PricingTitle = "Business+"
@@ -82,13 +82,13 @@ theme = "agnes-hugo-theme"
 	[[params.pricing.Features]]
 		Description = "4 Hours of our vCISO Services"
 	[[params.pricing.Features]]
-		Description = "2 Devices covered by our basic Managed Security Services (+50$ by added device)"
+		Description = "2 Devices covered by our basic Managed Security Services"
 	[[params.pricing.Features]]
 		Description = "Basic Website and Network Security Management"
 
 [[params.pricing]]
 	PricingTitle = "Entreprise"
-	PricingRate = "-"
+	#PricingRate = "-"
 	ButtonCaption = "Get Earliest Access"
  	pageRef = '/contact'
 	[[params.pricing.Features]]
