@@ -12,7 +12,7 @@ contentDir = "content/en"
 [menu]
 	[[menu.main]]
 		Name = "Contact"
-		URL = "/contact"
+		URL = "mailto:contact@securelayer.co"
 		#pageRef = '/contact'
 		weight = 1
 	
@@ -22,20 +22,20 @@ contentDir = "content/en"
 		#pageRef = '/about'
 		weight = 2
 	
-	[[menu.main]]
-		Name = "FAQ's"
-		URL = "/faq"
-		#pageRef = '/faq'	
-		weight = 3
+	#[[menu.main]]
+	#	Name = "FAQ's"
+	#	URL = "/faq"
+	#	pageRef = '/faq'	
+	#	weight = 3
 		
 [params.social]
-	GoogleURL = "http://google.com"
+	#GoogleURL = "http://google.com"
 		
 [params.content]
 	LeadTitle = "SecureLayer"
 	LeadDescription = "A cybersecurity company helping SMBs improve their business in Europe, South America and the Caribbean."
-	ButtonCaption = "Contact Us"
-	URL = "contact@securelayer.co"
+	ButtonCaption = "Contact us"
+	URL = "mailto:contact@securelayer.co"
 	#pageRef = "/contact"
 
 ################### Feature Columns (do not exceed 4) ####################
@@ -66,7 +66,7 @@ contentDir = "content/en"
 	PricingTitle = "Pro"
 	PricingRate = "250"	
 	ButtonCaption = "Contact Us"
- 	URL = "/contact"
+ 	URL = "mailto:contact@securelayer.co"
 	[[params.pricing.Features]]
 		Description = "1 Risk Assessment of your system"
 	[[params.pricing.Features]]
@@ -78,7 +78,7 @@ contentDir = "content/en"
 	PricingTitle = "Business+"
 	PricingRate = "750"
 	ButtonCaption = "Contact Us"
- 	URL = "/contact"
+ 	URL = "mailto:contact@securelayer.co"
 	[[params.pricing.Features]]
 		Description = "1 Risk Assessment of your system"
 	[[params.pricing.Features]]
@@ -92,7 +92,7 @@ contentDir = "content/en"
 	PricingTitle = "Entreprise"
 	PricingRate = ""
 	ButtonCaption = "Get Earliest Access"
- 	URL = "/contact"
+ 	URL = "mailto:contact@securelayer.co"
 	[[params.pricing.Features]]
 		Description = "Regular Risk Assessment of your system"
 	[[params.pricing.Features]]
