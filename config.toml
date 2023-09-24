@@ -11,20 +11,20 @@ theme = "agnes-hugo-theme"
 [menu]
 	[[menu.main]]
 		Name = "Contact"
-		#URL = "#"
-		pageRef = '/contact'
+		URL = "/contact"
+		#pageRef = '/contact'
 		weight = 1
 	
 	[[menu.main]]
 		Name = "About us"
-		URL = "#/about"
+		URL = "/about"
 		#pageRef = '/about'
 		weight = 2
 	
 	[[menu.main]]
 		Name = "FAQ's"
-		#URL = "#"
-		pageRef = '/faq'	
+		URL = "/faq"
+		#pageRef = '/faq'	
 		weight = 3
 		
 [params.social]
@@ -32,7 +32,7 @@ theme = "agnes-hugo-theme"
 		
 [params.content]
 	LeadTitle = "SecureLayer"
-	LeadDescription = "a cybersecurity company providing services for SMBs in Europe, South America and the Caribbean."
+	LeadDescription = "a cybersecurity company helping SMBs improve their business in Europe, South America and the Caribbean."
 	ButtonCaption = "Contact Us"
 	ButtonURL = "/contact"
 
@@ -40,22 +40,22 @@ theme = "agnes-hugo-theme"
 
 [[params.feature]]
 	FeatureTitle = "Virtual CISO"
-	FeatureDescription = "a cybersecurity expert will take the time to understand your organization’s specific business objectives and create a comprehensive and tailored cyber security strategy to meet those goals."
+	FeatureDescription = "a cybersecurity expert at your disposal to create a comprehensive and tailored cyber security strategy in order to meet your business goals."
  	FeatureImage = "images/feature-1.png"
 	
 [[params.feature]]
 	FeatureTitle = "Managed Security"
-	FeatureDescription = "cybersecurity tools at an affordable price to give your organization access to best technologies that fit your requirements and budget."
+	FeatureDescription = "to implement cybersecurity tools at an affordable price and give your organization access to the best technologies to protect your business."
 	FeatureImage = "images/feature-2.png"
 
 [[params.feature]]
 	FeatureTitle = "Risk Assessment"
-	FeatureDescription = "to inform decision-makers about vulnerabilities in corporate systems, allowing them to take preemptive defensive actions and prepare effective risk responses."
+	FeatureDescription = "to identify real vulnerabilities in your systems and take effective actions."
 	FeatureImage = "images/feature-3.png"
 	
 [[params.feature]]
 	FeatureTitle = "Phishing Test"
-	FeatureDescription = "to train your employees to detect and report phishing attacks to minimize the effects of attacks that will break through."
+	FeatureDescription = "to train your employees and minimize the effects of any attacks that will break through."
 	FeatureImage = "images/feature-4.png"
 	
 ################### Pricing Columns (do not exceed 3) ####################
