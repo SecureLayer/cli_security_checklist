@@ -36,7 +36,6 @@ contentDir = "content/en"
 	LeadDescription = "A cybersecurity company helping SMBs improve their business in Europe, South America and the Caribbean."
 	ButtonCaption = "Contact us"
 	ButtonURL = "mailto:contact@securelayer.co"
-	#pageRef = '/contact'
 
 ################### Feature Columns (do not exceed 4) ####################
 
@@ -66,7 +65,7 @@ contentDir = "content/en"
 	PricingTitle = "Pro"
 	PricingRate = "250"	
 	ButtonCaption = "Contact us"
-	pageRef = "contact"
+	URL = "/contact"
 	[[params.pricing.Features]]
 		Description = "1 Risk Assessment of your system"
 	[[params.pricing.Features]]
