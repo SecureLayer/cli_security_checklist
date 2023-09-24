@@ -84,7 +84,7 @@ theme = "agnes-hugo-theme"
 	[[params.pricing.Features]]
 		Description = "*2 Device* covered by our basic *Managed Security* Services (+50$ by added device)"
 	[[params.pricing.Features]]
-		Description = "Basic "Website & Network Security Management"
+		Description = "Basic *Website & Network Security* Management"
 	
 [[params.pricing]]
 	PricingTitle = "Entreprise"
@@ -98,4 +98,4 @@ theme = "agnes-hugo-theme"
 	[[params.pricing.Features]]
 		Description = "All devices covered by our advanced *Managed Security* Services"
 	[[params.pricing.Features]]
-		Description = "Advanced Website & Network Security Management" 
+		Description = "Advanced *Website & Network Security* Management" 
