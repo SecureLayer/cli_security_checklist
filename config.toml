@@ -18,14 +18,14 @@ contentDir = "content/en"
 	
 	[[menu.main]]
 		Name = "Security"
-		URL = "/security"
-	#	pageRef = '/about'
+	#	URL = "/security"
+		pageRef = '/security'
 		weight = 2
 	
 	[[menu.main]]
 		Name = "Privacy"
-		URL = "/privacy"
-	#	pageRef = '/faq'	
+	#	URL = "/privacy"
+		pageRef = '/privacy'	
 		weight = 3
 		
 #[params.social]
