@@ -40,7 +40,7 @@ theme = "agnes-hugo-theme"
 
 [[params.feature]]
 	FeatureTitle = "Virtual CISO"
-	FeatureDescription = "a cybersecurity expert at your disposal to create a comprehensive and tailored cyber security strategy in order to meet your business goals."
+	FeatureDescription = "to have a cybersecurity expert at your disposal for a comprehensive and tailored cyber security strategy to help you meet your business goals."
  	FeatureImage = "images/feature-1.png"
 	
 [[params.feature]]
