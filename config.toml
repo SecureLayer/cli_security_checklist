@@ -33,7 +33,7 @@ contentDir = "content/en"
 		
 [params.content]
 	LeadTitle = "SecureLayer"
-	LeadDescription = "A cybersecurity company helping SMBs improve their business in Europe, South America and the Caribbean."
+	LeadDescription = "a cybersecurity company helping SMBs improve their business in Europe, South America and the Caribbean."
 	ButtonCaption = "Contact Us"
 	ButtonURL = "/contact"
 
