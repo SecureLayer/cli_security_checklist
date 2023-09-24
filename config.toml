@@ -54,8 +54,8 @@ theme = "agnes-hugo-theme"
 	FeatureImage = "images/feature-3.png"
 	
 [[params.feature]]
-	FeatureTitle = "Phishing Test"
-	FeatureDescription = "to train your employees and minimize the effects of any attacks that will break through."
+	FeatureTitle = "Website and Network Security"
+	FeatureDescription = "to protect the data of your customers and minimize the effects of any attacks that will break through."
 	FeatureImage = "images/feature-4.png"
 	
 ################### Pricing Columns (do not exceed 3) ####################
