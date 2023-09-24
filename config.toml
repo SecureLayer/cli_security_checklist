@@ -22,11 +22,11 @@ contentDir = "content/en"
 	#	pageRef = '/about'
 	#	weight = 2
 	
-	#[[menu.main]]
-	#	Name = "FAQ's"
-	#	URL = "/faq"
+	[[menu.main]]
+		Name = "Privacy"
+		URL = "/privacy"
 	#	pageRef = '/faq'	
-	#	weight = 3
+		weight = 3
 		
 #[params.social]
 	#GoogleURL = "http://google.com"
