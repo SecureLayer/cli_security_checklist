@@ -66,11 +66,11 @@ theme = "agnes-hugo-theme"
 	ButtonCaption = "Contact Us"
  	pageRef = '/contact'
 	[[params.pricing.Features]]
-		Description = "1 Hour Of Advisory Services"
+		Description = "*1 Risk Assessment* of your system"
 	[[params.pricing.Features]]
-		Description = "1 Hour of Incident Response Services"
+		Description = "*1 Hour* of our *vCISO* Services"
 	[[params.pricing.Features]]
-		Description = "1 Device Security Management (+50$ by added device)"	
+		Description = "*1 Device* covered by our basic *Managed Security* Services (+50$ by added device)"	
 
 [[params.pricing]]
 	PricingTitle = "Business+"
@@ -78,13 +78,13 @@ theme = "agnes-hugo-theme"
 	ButtonCaption = "Contact Us"
  	pageRef = '/contact'
 	[[params.pricing.Features]]
-		Description = "4 Hours Of Advisory Services"
+		Description = "*1 Risk Assessment* of your system"
 	[[params.pricing.Features]]
-		Description = "4 Hours of Incident Response Services"
+		Description = "*4 Hours* of our *vCISO* Services"
 	[[params.pricing.Features]]
-		Description = "2 Devices Security Management (+50$ by added device)"
+		Description = "*2 Device* covered by our basic *Managed Security* Services (+50$ by added device)"
 	[[params.pricing.Features]]
-		Description = "Network Security Management"
+		Description = "Basic "Website & Network Security Management""
 	
 [[params.pricing]]
 	PricingTitle = "Entreprise"
@@ -92,12 +92,10 @@ theme = "agnes-hugo-theme"
 	ButtonCaption = "Get Earliest Access"
  	pageRef = '/contact'
 	[[params.pricing.Features]]
-		Description = "Full Advisory & Incident Response Services"
+		Description = "Regular *Risk Assessment* of your system"
 	[[params.pricing.Features]]
-		Description = "Full Devices Security Management"
+		Description = "Full *vCISO* Services"
 	[[params.pricing.Features]]
-		Description = "Security Strategy Roadmap"
+		Description = "All devices covered by our advanced *Managed Security* Services"
 	[[params.pricing.Features]]
-		Description = "Secure Project Implementation"
-  	[[params.pricing.Features]]
-		Description = "Network Security Management"
+		Description = "Advanced Website & Network Security Management" 
