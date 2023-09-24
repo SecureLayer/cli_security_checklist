@@ -66,7 +66,7 @@ contentDir = "content/en"
 	PricingTitle = "Pro"
 	PricingRate = "250"	
 	ButtonCaption = "Contact us"
- 	pageRef = '/contact'
+	ButtonURL = "mailto:contact@securelayer.co"
 	[[params.pricing.Features]]
 		Description = "1 Risk Assessment of your system"
 	[[params.pricing.Features]]
@@ -78,7 +78,7 @@ contentDir = "content/en"
 	PricingTitle = "Business+"
 	PricingRate = "750"
 	ButtonCaption = "Contact us"
- 	pageRef = '/contact'
+	ButtonURL = "mailto:contact@securelayer.co"
 	[[params.pricing.Features]]
 		Description = "1 Risk Assessment of your system"
 	[[params.pricing.Features]]
@@ -92,7 +92,7 @@ contentDir = "content/en"
 	PricingTitle = "Entreprise"
 	PricingRate = ""
 	ButtonCaption = "Get Earliest Access"
- 	pageRef = '/contact'
+	ButtonURL = "mailto:contact@securelayer.co"
 	[[params.pricing.Features]]
 		Description = "Regular Risk Assessment of your system"
 	[[params.pricing.Features]]
