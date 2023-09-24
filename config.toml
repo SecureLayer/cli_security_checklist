@@ -16,11 +16,11 @@ contentDir = "content/en"
 		#pageRef = '/contact'
 		weight = 1
 	
-	[[menu.main]]
-		Name = "About us"
-		URL = "/about"
-		#pageRef = '/about'
-		weight = 2
+	#[[menu.main]]
+	#	Name = "About us"
+	#	URL = "/about"
+	#	pageRef = '/about'
+	#	weight = 2
 	
 	#[[menu.main]]
 	#	Name = "FAQ's"
@@ -28,7 +28,7 @@ contentDir = "content/en"
 	#	pageRef = '/faq'	
 	#	weight = 3
 		
-[params.social]
+#[params.social]
 	#GoogleURL = "http://google.com"
 		
 [params.content]
@@ -65,7 +65,7 @@ contentDir = "content/en"
 [[params.pricing]]
 	PricingTitle = "Pro"
 	PricingRate = "250"	
-	ButtonCaption = "Contact Us"
+	ButtonCaption = "Contact us"
  	URL = "mailto:contact@securelayer.co"
 	[[params.pricing.Features]]
 		Description = "1 Risk Assessment of your system"
@@ -77,7 +77,7 @@ contentDir = "content/en"
 [[params.pricing]]
 	PricingTitle = "Business+"
 	PricingRate = "750"
-	ButtonCaption = "Contact Us"
+	ButtonCaption = "Contact us"
  	URL = "mailto:contact@securelayer.co"
 	[[params.pricing.Features]]
 		Description = "1 Risk Assessment of your system"
