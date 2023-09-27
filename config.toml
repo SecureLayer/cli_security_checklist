@@ -73,7 +73,7 @@ contentDir = "content/en"
 
 [[params.pricing]]
 	PricingTitle = "Business+"
-	PricingRate = "750"
+	PricingRate = "850"
 	ButtonCaption = "Contact us"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
