@@ -39,12 +39,12 @@ contentDir = "content/en"
 
 [[params.feature]]
 	FeatureTitle = "Virtual CISO"
-	FeatureDescription = "Reach a cybersecurity expert to answer your questions, to help you respond to an incident or to create a comprehensive and tailored cybersecurity strategy plan."
+	FeatureDescription = "Reach a cybersecurity expert to answer your questions, to help you respond to an incident and maintain your business activities."
  	FeatureImage = "images/feature-1.png"
 	
 [[params.feature]]
 	FeatureTitle = "Managed Security"
-	FeatureDescription = "Implement cybersecurity tools at an affordable price and give your organization access to the best technologies to protect your business."
+	FeatureDescription = "Implement cybersecurity tools (DDos & Malware protections, VPN, Password Manager...) at an affordable price to protect your business."
 	FeatureImage = "images/feature-2.png"
 
 [[params.feature]]
@@ -54,7 +54,7 @@ contentDir = "content/en"
 	
 [[params.feature]]
 	FeatureTitle = "Website and Network Security"
-	FeatureDescription = "Protect the data of your customers and minimize the effects any cyberattacks that will break through could have."
+	FeatureDescription = "Protect the data of your customers and minimize the effects any cyberattacks that will break through."
 	FeatureImage = "images/feature-4.png"
 	
 ################### Pricing Columns (do not exceed 3) ####################
