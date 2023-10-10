@@ -31,30 +31,30 @@ contentDir = "content/en"
 		
 [params.content]
 	LeadTitle = "SecureLayer"
-	LeadDescription = "We help SMBs improve organization's ability to prevent, withstand and recover from cybersecurity incidents."
-	ButtonCaption = "Send us an email"
+	LeadDescription = "We help small and medium-sized enterprises (SMEs) improve their ability to prevent, withstand and recover from cybersecurity incidents."
+	ButtonCaption = "Send us an email to know more" 
 	ButtonURL = "mailto:contact@securelayer.co"
 
 ################### Feature Columns (do not exceed 4) ####################
 
 [[params.feature]]
 	FeatureTitle = "Virtual CISO"
-	FeatureDescription = "Have a cybersecurity expert at your disposal for a comprehensive and tailored cyber security strategy to help you meet your business goals."
+	FeatureDescription = "Reach a cybersecurity expert to answer your questions, create a comprehensive and tailored cybersecurity strategy plan or help you respond to an incident."
  	FeatureImage = "images/feature-1.png"
 	
 [[params.feature]]
 	FeatureTitle = "Managed Security"
-	FeatureDescription = "Implement cybersecurity tools at an affordable price and give your organization access to the best technologies and protect your business."
+	FeatureDescription = "Implement cybersecurity tools at an affordable price and give your organization access to the best technologies to protect your business."
 	FeatureImage = "images/feature-2.png"
 
 [[params.feature]]
 	FeatureTitle = "Risk Assessment"
-	FeatureDescription = "Identify real vulnerabilities in your systems and take effective actions."
+	FeatureDescription = "Identify vulnerabilities in your systems and take effective corrective actions."
 	FeatureImage = "images/feature-3.png"
 	
 [[params.feature]]
 	FeatureTitle = "Website and Network Security"
-	FeatureDescription = "Protect the data of your customers and minimize the effects of any attacks that will break through."
+	FeatureDescription = "Protect the data of your customers and minimize the effects any cyberattacks that will break through could have."
 	FeatureImage = "images/feature-4.png"
 	
 ################### Pricing Columns (do not exceed 3) ####################
