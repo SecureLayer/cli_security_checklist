@@ -39,7 +39,7 @@ contentDir = "content/en"
 
 [[params.feature]]
 	FeatureTitle = "Virtual CISO"
-	FeatureDescription = "Reach a cybersecurity expert to answer your questions, to help you respond to an incident and maintain your business activities."
+	FeatureDescription = "Reach a cybersecurity expert to answer your questions or to help you maintain your business operations after an incident."
  	FeatureImage = "images/feature-1.png"
 	
 [[params.feature]]
@@ -62,7 +62,7 @@ contentDir = "content/en"
 [[params.pricing]]
 	PricingTitle = "Pro"
 	PricingRate = ""	
-	ButtonCaption = "Get Instant Quote"
+	ButtonCaption = "Get instant quote"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
 		Description = "1 Risk Assessment of your system"
@@ -74,7 +74,7 @@ contentDir = "content/en"
 [[params.pricing]]
 	PricingTitle = "Business+"
 	PricingRate = ""
-	ButtonCaption = "Get Instant Quote"
+	ButtonCaption = "Get instant quote"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
 		Description = "1 Risk Assessment of your system"
@@ -88,7 +88,7 @@ contentDir = "content/en"
 [[params.pricing]]
 	PricingTitle = "Entreprise"
 	PricingRate = ""
-	ButtonCaption = "Get Instant Quote"
+	ButtonCaption = "Get instant quote"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
 		Description = "Regular Risk Assessment of your system"
