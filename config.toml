@@ -32,7 +32,7 @@ contentDir = "content/en"
 [params.content]
 	LeadTitle = "SecureLayer"
 	LeadDescription = "We help small and medium-sized enterprises (SMEs) improve their ability to prevent, withstand and recover from cybersecurity incidents."
-	ButtonCaption = "Improve your cybersecurity now" 
+	ButtonCaption = "Improve Your Cybersecurity Now" 
 	ButtonURL = "mailto:contact@securelayer.co"
 
 ################### Feature Columns (do not exceed 4) ####################
@@ -62,7 +62,7 @@ contentDir = "content/en"
 [[params.pricing]]
 	PricingTitle = "Pro"
 	PricingRate = ""	
-	ButtonCaption = "Get instant quote"
+	ButtonCaption = "Get Instant Quote"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
 		Description = "1 Risk Assessment of your system"
@@ -74,7 +74,7 @@ contentDir = "content/en"
 [[params.pricing]]
 	PricingTitle = "Business+"
 	PricingRate = ""
-	ButtonCaption = "Get instant quote"
+	ButtonCaption = "Get Instant Quote"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
 		Description = "1 Risk Assessment of your system"
@@ -88,7 +88,7 @@ contentDir = "content/en"
 [[params.pricing]]
 	PricingTitle = "Entreprise"
 	PricingRate = ""
-	ButtonCaption = "Get instant quote"
+	ButtonCaption = "Get Instant Quote"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
 		Description = "Regular Risk Assessment of your system"
