@@ -67,7 +67,7 @@ contentDir = "content/en"
 	[[params.pricing.Features]]
 		Description = "1 Risk Assessment of your system"
 	[[params.pricing.Features]]
-		Description = "1 Hour of our vCISO Services"
+		Description = "1 Hour of our Virtual CISO Services"
 	[[params.pricing.Features]]
 		Description = "1 Device covered by our basic Managed Security Services"	
 
@@ -79,7 +79,7 @@ contentDir = "content/en"
 	[[params.pricing.Features]]
 		Description = "1 Risk Assessment of your system"
 	[[params.pricing.Features]]
-		Description = "4 Hours of our vCISO Services"
+		Description = "4 Hours of our Virtual CISO Services"
 	[[params.pricing.Features]]
 		Description = "2 Devices covered by our basic Managed Security Services"
 	[[params.pricing.Features]]
@@ -93,7 +93,7 @@ contentDir = "content/en"
 	[[params.pricing.Features]]
 		Description = "Regular Risk Assessment of your system"
 	[[params.pricing.Features]]
-		Description = "Full vCISO Services"
+		Description = "Full Virtual CISO Services"
 	[[params.pricing.Features]]
 		Description = "All devices covered by our advanced Managed Security Services"
 	[[params.pricing.Features]]
