@@ -39,29 +39,29 @@ contentDir = "content/en"
 
 [[params.feature]]
 	FeatureTitle = "Virtual CISO"
-	FeatureDescription = "to have a cybersecurity expert at your disposal for a comprehensive and tailored cyber security strategy to help you meet your business goals."
+	FeatureDescription = "Have a cybersecurity expert at your disposal for a comprehensive and tailored cyber security strategy to help you meet your business goals."
  	FeatureImage = "images/feature-1.png"
 	
 [[params.feature]]
 	FeatureTitle = "Managed Security"
-	FeatureDescription = "to implement cybersecurity tools at an affordable price and give your organization access to the best technologies to protect your business."
+	FeatureDescription = "Implement cybersecurity tools at an affordable price and give your organization access to the best technologies and protect your business."
 	FeatureImage = "images/feature-2.png"
 
 [[params.feature]]
 	FeatureTitle = "Risk Assessment"
-	FeatureDescription = "to identify real vulnerabilities in your systems and take effective actions."
+	FeatureDescription = "Identify real vulnerabilities in your systems and take effective actions."
 	FeatureImage = "images/feature-3.png"
 	
 [[params.feature]]
 	FeatureTitle = "Website and Network Security"
-	FeatureDescription = "to protect the data of your customers and minimize the effects of any attacks that will break through."
+	FeatureDescription = "Protect the data of your customers and minimize the effects of any attacks that will break through."
 	FeatureImage = "images/feature-4.png"
 	
 ################### Pricing Columns (do not exceed 3) ####################
 
 [[params.pricing]]
 	PricingTitle = "Pro"
-	PricingRate = "250"	
+	PricingRate = ""	
 	ButtonCaption = "Contact us"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
@@ -73,7 +73,7 @@ contentDir = "content/en"
 
 [[params.pricing]]
 	PricingTitle = "Business+"
-	PricingRate = "850"
+	PricingRate = ""
 	ButtonCaption = "Contact us"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
