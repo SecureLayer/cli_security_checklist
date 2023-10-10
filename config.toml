@@ -31,8 +31,8 @@ contentDir = "content/en"
 		
 [params.content]
 	LeadTitle = "SecureLayer"
-	LeadDescription = "A cybersecurity company helping SMBs improve their business in Europe, South America and the Caribbean."
-	ButtonCaption = "Contact us"
+	LeadDescription = "We help SMBs improve organization's ability to prevent, withstand and recover from cybersecurity incidents."
+	ButtonCaption = "Send us an email at contact@securelayer.co"
 	ButtonURL = "mailto:contact@securelayer.co"
 
 ################### Feature Columns (do not exceed 4) ####################
