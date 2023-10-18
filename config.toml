@@ -69,7 +69,7 @@ contentDir = "content/en"
 	[[params.pricing.Features]]
 		Description = "3-6-9 month project"
 	[[params.pricing.Features]]
-		Description = "	
+		Description = ""	
 
 [[params.pricing]]
 	PricingTitle = "vCISO project - Definition, Creation and Implementation"
