@@ -79,7 +79,7 @@ contentDir = "content/en"
 	[[params.pricing.Features]]
 		Description = "3-6-9 months projects"
 	[[params.pricing.Features]]
-		Description = "Secured API, Secured GenAI, Zero Knowledge, Security awareness program..."
+		Description = "Secured API, Secured GenAI, Zero Knowledge, Security awareness program"
 	[[params.pricing.Features]]
 		Description = "Compliance, Cybersecurity strategy, Risk management"
 	[[params.pricing.Features]]
@@ -91,7 +91,7 @@ contentDir = "content/en"
 	ButtonCaption = "Get Instant Quote"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
-		Description = "Prevent, detect, and mitigate cyberattacks"
+		Description = "Detect and mitigate cyberattacks"
 	[[params.pricing.Features]]
 		Description = "Website, Corporate or Network Security Management"
 	[[params.pricing.Features]]
