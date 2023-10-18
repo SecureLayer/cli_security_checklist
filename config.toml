@@ -60,41 +60,41 @@ contentDir = "content/en"
 ################### Pricing Columns (do not exceed 3) ####################
 
 [[params.pricing]]
-	PricingTitle = "vCISO à la demande"
+	PricingTitle = "vCISO à la demande - Definition or Reajustment"
 	PricingRate = ""	
 	ButtonCaption = "Get Instant Quote"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
-		Description = "Definition or Reajustment"
+		Description = "Incident Reponse, Security Guidance"
 	[[params.pricing.Features]]
 		Description = "3-6-9 month project"
 	[[params.pricing.Features]]
-		Description = "Incident Reponse, Security Guidance"	
+		Description = "	
 
 [[params.pricing]]
-	PricingTitle = "vCISO project"
+	PricingTitle = "vCISO project - Definition, Creation and Implementation"
 	PricingRate = ""
 	ButtonCaption = "Get Instant Quote"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
-		Description = "Definition, Creation and Implementation"
+		Description = ""
 	[[params.pricing.Features]]
-		Description = "Security projects"
+		Description = "CyberSecurity projects (Secured API,  Secured GenAI, Zero Knowledge, Security training)"
 	[[params.pricing.Features]]
 		Description = "Compliance, Cybersecurity strategy, Risk management"
 	[[params.pricing.Features]]
-		Description = "Website, Corporate, Network Security Project"
+		Description = "Website, Corporate, Network Cybersecurity Project"
 
 [[params.pricing]]
-	PricingTitle = "vCISO part-time"
+	PricingTitle = "vCISO part-time - Implementation or Reajustment"
 	PricingRate = ""
 	ButtonCaption = "Get Instant Quote"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
-		Description = "Implementation or Reajustment"
-	[[params.pricing.Features]]
-		Description = "Actual protection"
+		Description = "Prevent, detect, and mitigate cyberattacks"
 	[[params.pricing.Features]]
 		Description = "Website, Corporate or Network Security Management"
 	[[params.pricing.Features]]
-		Description = "Incident Reponse" 
+		Description = "Incident Reponse"
+	[[params.pricing.Features]]
+		Description = "Vendors Management" 
