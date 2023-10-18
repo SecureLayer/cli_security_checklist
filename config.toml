@@ -60,7 +60,7 @@ contentDir = "content/en"
 ################### Pricing Columns (do not exceed 3) ####################
 
 [[params.pricing]]
-	PricingTitle = "vCISO à la demande - Definition or Reajustment"
+	PricingTitle = "vCISO à la demande"
 	PricingRate = ""	
 	ButtonCaption = "Get Instant Quote"
 	pageRef = '/contact'
@@ -72,7 +72,7 @@ contentDir = "content/en"
 		Description = ""	
 
 [[params.pricing]]
-	PricingTitle = "vCISO project - Definition, Creation and Implementation"
+	PricingTitle = "vCISO project"
 	PricingRate = ""
 	ButtonCaption = "Get Instant Quote"
 	pageRef = '/contact'
@@ -86,7 +86,7 @@ contentDir = "content/en"
 		Description = "Website, Corporate, Network Cybersecurity Project"
 
 [[params.pricing]]
-	PricingTitle = "vCISO part-time - Implementation or Reajustment"
+	PricingTitle = "vCISO part-time"
 	PricingRate = ""
 	ButtonCaption = "Get Instant Quote"
 	pageRef = '/contact'
