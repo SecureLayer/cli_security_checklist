@@ -65,11 +65,11 @@ contentDir = "content/en"
 	ButtonCaption = "Get Instant Quote"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
-		Description = "Incident Reponse, Security Guidance & Assessment"
+		Description = "Incident Reponse"
 	[[params.pricing.Features]]
-		Description = "3-6-9 month project"
+		Description = "CyberSecurity Guidance"
 	[[params.pricing.Features]]
-		Description = ""	
+		Description = "CyberSecurity Assessment"	
 
 [[params.pricing]]
 	PricingTitle = "vCISO project"
@@ -95,6 +95,6 @@ contentDir = "content/en"
 	[[params.pricing.Features]]
 		Description = "Website, Corporate or Network Security Management"
 	[[params.pricing.Features]]
-		Description = "Security training, Incident Reponse & Vendors Management"
+		Description = "Incident Reponse & Vendors Management"
 	[[params.pricing.Features]]
-		Description = "" 
+		Description = "CyberSecurity training" 
