@@ -53,48 +53,48 @@ contentDir = "content/en"
 	FeatureImage = "images/feature-3.png"
 	
 [[params.feature]]
-	FeatureTitle = "Website and Network Security"
+	FeatureTitle = "Corporate, Website and Network Security"
 	FeatureDescription = "Protect the data of your customers and minimize the effects any cyberattacks that will break through."
 	FeatureImage = "images/feature-4.png"
 	
 ################### Pricing Columns (do not exceed 3) ####################
 
 [[params.pricing]]
-	PricingTitle = "Pro"
+	PricingTitle = "vCISO à la demande"
 	PricingRate = ""	
 	ButtonCaption = "Get Instant Quote"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
-		Description = "1 Risk Assessment of your system"
+		Description = "Definition or Reajustment"
 	[[params.pricing.Features]]
-		Description = "1 Hour of our Virtual CISO Services"
+		Description = "3-6-9 month project"
 	[[params.pricing.Features]]
-		Description = "1 Device covered by our basic Managed Security Services"	
+		Description = "Incident Reponse, Security Guidance"	
 
 [[params.pricing]]
-	PricingTitle = "Business+"
+	PricingTitle = "vCISO project"
 	PricingRate = ""
 	ButtonCaption = "Get Instant Quote"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
-		Description = "1 Risk Assessment of your system"
+		Description = "Definition, Creation and Implementation"
 	[[params.pricing.Features]]
-		Description = "4 Hours of our Virtual CISO Services"
+		Description = "Security projects"
 	[[params.pricing.Features]]
-		Description = "2 Devices covered by our basic Managed Security Services"
+		Description = "Compliance, Cybersecurity strategy, Risk management"
 	[[params.pricing.Features]]
-		Description = "Basic Website and Network Security Management"
+		Description = "Website, Corporate, Network Security Project"
 
 [[params.pricing]]
-	PricingTitle = "Entreprise"
+	PricingTitle = "vCISO part-time"
 	PricingRate = ""
 	ButtonCaption = "Get Instant Quote"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
-		Description = "Regular Risk Assessment of your system"
+		Description = "Implementation or Reajustment"
 	[[params.pricing.Features]]
-		Description = "Full Virtual CISO Services"
+		Description = "Actual protection"
 	[[params.pricing.Features]]
-		Description = "All devices covered by our advanced Managed Security Services"
+		Description = "Website, Corporate or Network Security Management"
 	[[params.pricing.Features]]
-		Description = "Advanced Website and Network Security Management" 
+		Description = "Incident Reponse" 
