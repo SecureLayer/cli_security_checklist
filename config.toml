@@ -44,7 +44,7 @@ contentDir = "content/en"
 	
 [[params.feature]]
 	FeatureTitle = "Managed Security"
-	FeatureDescription = "Implement cybersecurity tools (DDos & Malware protections, VPN, Password Manager...) at an affordable price to protect your business."
+	FeatureDescription = "Implement cybersecurity tools (DDoS, Emails & Malware protections, VPN, Password Manager...) at an affordable price to protect your business."
 	FeatureImage = "images/feature-2.png"
 
 [[params.feature]]
