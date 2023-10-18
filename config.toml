@@ -65,7 +65,7 @@ contentDir = "content/en"
 	ButtonCaption = "Get Instant Quote"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
-		Description = "Incident Reponse, Security Guidance"
+		Description = "Incident Reponse, Security Guidance & Assessment"
 	[[params.pricing.Features]]
 		Description = "3-6-9 month project"
 	[[params.pricing.Features]]
@@ -77,9 +77,9 @@ contentDir = "content/en"
 	ButtonCaption = "Get Instant Quote"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
-		Description = ""
+		Description = "3-6-9 months projects"
 	[[params.pricing.Features]]
-		Description = "CyberSecurity projects (Secured API,  Secured GenAI, Zero Knowledge, Security training)"
+		Description = "Secured API, Secured GenAI, Zero Knowledge, Security awareness program..."
 	[[params.pricing.Features]]
 		Description = "Compliance, Cybersecurity strategy, Risk management"
 	[[params.pricing.Features]]
@@ -95,6 +95,6 @@ contentDir = "content/en"
 	[[params.pricing.Features]]
 		Description = "Website, Corporate or Network Security Management"
 	[[params.pricing.Features]]
-		Description = "Incident Reponse"
+		Description = "Security training, Incident Reponse & Vendors Management"
 	[[params.pricing.Features]]
-		Description = "Vendors Management" 
+		Description = "" 
