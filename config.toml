@@ -77,13 +77,13 @@ contentDir = "content/en"
 	ButtonCaption = "Get Instant Quote"
 	pageRef = '/contact'
 	[[params.pricing.Features]]
-		Description = "3-6-9 months projects"
+		Description = "3-6-9-12 months projects"
 	[[params.pricing.Features]]
-		Description = "Secured API, Secured GenAI, Zero Knowledge, Security awareness program"
+		Description = "Secured API, Secured GenAI, Zero Trust, Security awareness program"
 	[[params.pricing.Features]]
 		Description = "Compliance, Cybersecurity strategy, Risk management"
 	[[params.pricing.Features]]
-		Description = "Website, Corporate, Network Cybersecurity Project"
+		Description = "Website, Corporate, Network Cybersecurity Projects"
 
 [[params.pricing]]
 	PricingTitle = "vCISO part-time"
