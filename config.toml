@@ -39,7 +39,7 @@ contentDir = "content/en"
 
 [[params.feature]]
 	FeatureTitle = "Virtual CISO"
-	FeatureDescription = "Reach a cybersecurity expert to answer your questions or to help you maintain your business operations after an incident."
+	FeatureDescription = "Coordinate all security technologies, tactics, strategies, and processes to ensure the organization is protected now and in the future."
  	FeatureImage = "images/feature-1.png"
 	
 [[params.feature]]
