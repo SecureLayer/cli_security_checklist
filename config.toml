@@ -95,6 +95,6 @@ contentDir = "content/en"
 	[[params.pricing.Features]]
 		Description = "Website, Corporate or Network Security Management"
 	[[params.pricing.Features]]
-		Description = "Incident Reponse & Vendors Management"
+		Description = "Incident Reponses & Vendors Management"
 	[[params.pricing.Features]]
 		Description = "CyberSecurity training" 
