@@ -1,4 +1,4 @@
-# Web Application Security Checklist
+# CLI Security Checklist
 
 ## Objectives
 
