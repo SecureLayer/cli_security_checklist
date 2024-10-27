@@ -9,7 +9,7 @@ Items on this list are frequently missed so it's a starting point not a bullet p
 ## The checklist
 #### SSH key management
 - [ ] My SSH keys are generated with strong algorithms (e.g., RSA 4096 or Ed25519)
-- [ ] My private keys are stored securelyand have proper permissions
+- [ ] My private keys are stored securely and have proper permissions
 - [ ] There are no unprotected or unnecessary keys on my laptop
 #### Environment variables
 - [ ] I do not have any sensitive information (API keys, passwords) stored in environment variables
